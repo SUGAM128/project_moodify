@@ -1,4 +1,4 @@
-# Mood Melody  (An Emotion based music reccomendation App)
+Moodify (Music recommedaion using Facial expression)
 
 A CNN model to reccomend music based on the user facial emotion made using FER 2013 dataset and Spotipy api
 
